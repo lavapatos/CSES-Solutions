@@ -17,14 +17,14 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
  
-    int n;
+    ll n;
     cin>>n;
  
-    size_t big = n*(n + 1)/2;
-    size_t sum = 0;
+    ll big = n*(n + 1)/2;
+    ll sum = 0;
  
-    int num;
-    for (int i = 0; i < n-1; i++) {
+    ll num;
+    for (int i = 0; i < n - 1; i++) {
         cin>>num;
         sum += num;
     }
