@@ -20,16 +20,15 @@ int main() {
     int n;
     cin>>n;
  
-    n *= (n+1);
-    n /= 2;
+    size_t sum = n*(n + 1)/2;
  
     int num;
     for (int i = 0; i < n-1; i++) {
         cin>>num;
-        n -= num;
+        sum -= num;
     }
  
-    cout<<n;
+    cout<<sum;
  
     return 0;
 }
