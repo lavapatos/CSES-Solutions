@@ -20,14 +20,16 @@ int main() {
     int n;
     cin>>n;
  
-    int sum = 0;
-    int s;
+    n *= (n+1);
+    n /= 2;
+ 
+    int num;
     for (int i = 0; i < n-1; i++) {
-        cin>>s;
-        sum += s;
+        cin>>num;
+        n -= num;
     }
  
-    cout<<n*(n+1)/2 - sum;
+    cout<<n;
  
     return 0;
 }
