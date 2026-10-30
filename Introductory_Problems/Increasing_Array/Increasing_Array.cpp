@@ -28,9 +28,8 @@ int main() {
  
     for (int i = 1; i < n; i++) {
         cin>>act;
-        if (act < prev) {ans += prev^act;}
-        act += prev^act;
-        prev = act;
+        if (act < prev) {ans += prev-act;}
+        else {prev = act;}
     }
  
     cout<<ans;
