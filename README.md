@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Weird Algorithm | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Weird_Algorithm/Weird_Algorithm.cpp) |
 | Missing Number | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Missing_Number/Missing_Number.cpp) |
 | Permutations | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Permutations/Permutations.cpp) |
 | Static Range Sum Queries | Range Queries | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Range_Queries/Static_Range_Sum_Queries/Static_Range_Sum_Queries.cpp) |
