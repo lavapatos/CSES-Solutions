@@ -23,7 +23,7 @@ int main() {
     int prev;
     cin>>prev;
  
-    int ans = 0;
+    ll ans = 0;
     int act;
  
     for (int i = 1; i < n; i++) {
