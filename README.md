@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Grid Coloring I | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Grid_Coloring_I/Grid_Coloring_I.cpp) |
 | Increasing Array | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Increasing_Array/Increasing_Array.cpp) |
 | Repetitions | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Repetitions/Repetitions.cpp) |
 | Weird Algorithm | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Weird_Algorithm/Weird_Algorithm.cpp) |
