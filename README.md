@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Minimizing Coins | Dynamic Programming | [ Python ](https://github.com/lavapatos/CSES-Solutions/blob/main/Dynamic_Programming/Minimizing_Coins/Minimizing_Coins.py) |
 | Grid Coloring I | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Grid_Coloring_I/Grid_Coloring_I.cpp) |
 | Increasing Array | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Increasing_Array/Increasing_Array.cpp) |
 | Repetitions | Introductory Problems | [ C++ ](https://github.com/lavapatos/CSES-Solutions/blob/main/Introductory_Problems/Repetitions/Repetitions.cpp) |
