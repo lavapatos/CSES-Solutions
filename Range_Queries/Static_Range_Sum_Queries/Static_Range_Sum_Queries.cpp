@@ -2,7 +2,7 @@
  * Problem Name: Static_Range_Sum_Queries
  * Language: C++
  * Category: Range_Queries
- * Date: 2026-11-04
+ * Date: 2026-11-05
  */
 
 #include <iostream>
